@@ -1,6 +1,6 @@
-# pc5555-BusinessMark
+# BusinessMark
 
 
-Technical support: pc5555-BusinessMark@gmail.com
+Technical support: BusinessMark@gmail.com
 
 
